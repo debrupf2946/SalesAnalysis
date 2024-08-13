@@ -10,4 +10,5 @@ This project leverages **PySpark** to analyze sales and menu data, generating ke
 - **Sales Analysis:** Breaks down sales data by time, location, and product to identify trends and patterns.
 - **Menu Performance:** Analyzes menu items to determine bestsellers, underperformers, and opportunities for menu optimization.
 - **KPIs Generation:** Automatically calculates essential business KPIs, such as average order value, item popularity, and revenue trends.
-# visulaization
+# DashBoard
+![PDF Preview](screencapture-community-cloud-databricks-2024-08-13-07_01_10.jpg)
