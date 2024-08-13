@@ -1,7 +1,3 @@
-Sure! I'll draft a README based on the content in your project. 
-
----
-
 # PySpark Sales Analysis
 
 ## Project Overview
